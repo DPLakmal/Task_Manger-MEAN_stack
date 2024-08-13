@@ -1,0 +1,64 @@
+# Compiled output
+dist/
+build/
+
+# Temporary files and folders
+tmp/
+temp/
+
+# Cache files
+.cache/
+.cache-loader/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node Modules
+node_modules/
+
+# Angular Files
+.angular/
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vscode/
+.vscode/*
+
+# Environment Files
+*.env
+
+# Test Files
+coverage/
+*.spec.js
+*.spec.ts
+*.spec.ts.map
+*.spec.js.map
+
+# Compiled JavaScript & Map Files
+*.js
+*.js.map
+
+# Miscellaneous
+.sass-cache/
+connect.lock
+coverage/
+bower_components/
+.lock-wscript
+logs
+*.log
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+.yarn-integrity
+lib-cov
+
+# TypeScript specific
+*.tsbuildinfo
